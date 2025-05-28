@@ -17,10 +17,11 @@
       "search_url":   "https://leta.mullvad.net/search?q={searchTerms}&engine=google",
       "favicon_url":  "icons/favicon.ico",
       "encoding":     "UTF-8"
-    },
+    }
+  },
   "browser_specific_settings": {
     "gecko": {
-      "id": "unofficial-mullvad-leta-via-google@example.com"
+      "id": "unofficial-mullvad-leta-via-google@anytext"
     }
   }
 }
